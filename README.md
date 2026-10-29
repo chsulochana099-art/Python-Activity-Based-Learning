@@ -2,7 +2,7 @@
 
 
 # Student Details
-- **Name:Naga Sulochana
+- Name:Naga Sulochana
 - **Roll Number:** 26000883
 - **Branch:** CSM-1
 - **College:** DR. RVR NRIIT DTBU
